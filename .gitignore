@@ -1,0 +1,12 @@
+# Archivos del sistema
+__pycache__/
+*.pyc
+
+# Modelos y datasets grandes
+data/
+*.zip
+*.h5
+
+# Archivos temporales
+.ipynb_checkpoints/
+.DS_Store
